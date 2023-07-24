@@ -6,7 +6,7 @@ const projects = [
       githubRepo: 'https://github.com/jacktheson/MasUni',
     },
     {
-      title: 'Personal website',
+      title: 'Personal Website',
       description: 'The website you are currently looking at is currently a personal project. \n I am using AWS Amplify, React, and JS to work on personal projects and create a hub space for myself. \n Additionally, I am experimenting with ChatGPT and other large language models. ',
       githubRepo: 'https://github.com/phillipgarcia12/amplifyapp',
     },
