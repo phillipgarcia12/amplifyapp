@@ -9,7 +9,7 @@ const ProjectsList = () => {
       style={{
         display: 'flex',
         flexWrap: 'wrap',
-        justifyContent: 'center',
+        justifyContent: 'left',
       }}
     >
     <h2>

@@ -13,7 +13,9 @@ const PersonalSection = () => {
         Do not hesitate to reach out if you have any questions or inquiries.
         <br></br>
         <br></br>
-        Thanks,  Phillip Garcia
+        Thanks,  
+        <br></br>
+        Phillip Garcia
       <h3>
         About Me
       </h3>
@@ -44,15 +46,17 @@ const PersonalSection = () => {
           <li>AWS - 1 year</li>
         </ul>
         <br></br>
-        Throughout my time at Furman I have partcipated in projects, some of which are highlighted here on this website.  I also have projects that I am currently working on such as this website.   
-        Additionally, I have internship experience in marketing, internal business & sales, and   software development.  
+
+        Throughout my time at Furman I have partcipated in projects, some of which are highlighted here on this website. I also have projects that I am currently working on such as this website.
+        <br></br>   
+        Additionally, I have internship experience in marketing, internal business & sales, and software development.  
         <br></br>
         <br></br>
         Outside of tech my interests include: videogames, reading, working out, and cooking. 
         <br></br>
         <br></br> 
         My passion is to create and through that passion I want to help others and solve problems. 
-        My current goal currently is for full time employment as a software engineer/developer. 
+        My current goal is to achieve full time employment as a software engineer/developer. 
       </p>
 
       <h3>
