@@ -5,12 +5,16 @@ import projects from './projects';
 const ProjectsList = () => {
   return (
     <div
+    
       style={{
         display: 'flex',
         flexWrap: 'wrap',
         justifyContent: 'center',
       }}
     >
+    <h2>
+      My Projects
+    </h2>
       {projects.map((project, index) => (
         <ProjectCard
           key={index}
