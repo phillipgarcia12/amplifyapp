@@ -1,0 +1,17 @@
+/* PersonalSection.css */
+.personal-section {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+  }
+  
+  .personal-section h2 {
+    color: #333;
+  }
+  
+  .personal-section p {
+    color: #666;
+    line-height: 1.6;
+  }
+  

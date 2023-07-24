@@ -1,5 +1,6 @@
 import React from 'react';
 import ProjectsList from './projectList';
+import PersonalSection from './personalSection';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       </header>
       <main>
         <ProjectsList />
+        <PersonalSection />
       </main>
     </div>
   );
