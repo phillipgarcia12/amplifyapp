@@ -17,7 +17,7 @@ const ProjectCard = ({ title, description, githubRepo }) => {
       <h3>{title}</h3>
       <p style={{ flex: '1', marginBottom: '10px' }}>{description}</p>
       <a href={githubRepo} target="_blank" rel="noopener noreferrer">
-        GitHub Repository
+        Project/Code Link
       </a>
     </div>
   );
