@@ -12,7 +12,8 @@ const projects = [
     },
     {
       title: 'Furman Art Gallery',
-      description: "Worked in a group of 3 for a client to develop a full stack application. \n The languages used were PHP, SQL, HTML, and CSS. \n My team was tasked with the creation of the schema, normalization of said schema, and implementatin of schema on the back end. \n Our next step was to implement a front for the client to view reports, information, and certain business queries. "
+      description: "Worked in a group of 3 for a client to develop a full stack application. \n The languages used were PHP, SQL, HTML, and CSS. \n My team was tasked with the creation of the schema, normalization of said schema, and implementatin of schema on the back end. \n Our next step was to implement a front for the client to view reports, information, and certain business queries. ",
+      githubRepo: 'https://cs.furman.edu/~lkvamme/FurmanArtGallery/',
     }
     // Add more projects here
   ];
