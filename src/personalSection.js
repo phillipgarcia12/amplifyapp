@@ -1,5 +1,4 @@
 import React from 'react';
-
 const PersonalSection = () => {
   return (
     <div>
@@ -8,7 +7,7 @@ const PersonalSection = () => {
         Welcome,
         <br></br>
         <br></br>
-        Thank you for visiting my personal website. Here I have a bio, listing of my past and present projects, and my personal links. 
+        Thank you for visiting my personal website. Here I have a bio, listings of my past and present projects, and my personal links. 
         <br></br>
         Do not hesitate to reach out if you have any questions or inquiries.
         <br></br>
